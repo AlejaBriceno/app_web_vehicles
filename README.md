@@ -15,3 +15,6 @@ Una aplicacion web que analiza los datos de los vehiculos en tiempo real con Str
 
 ✔️ Streamlit
 
+##URL de la app
+
+https://app-web-vehicles-1.onrender.com/
